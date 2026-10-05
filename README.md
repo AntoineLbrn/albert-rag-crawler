@@ -15,6 +15,4 @@ deno run \
   sync.ts```
 
 4. run this command
-```
-deno run --allow-net --allow-env --env-file=.env server.ts
-``` 
+``` deno run --allow-net --allow-env --env-file=.env server.ts ```
