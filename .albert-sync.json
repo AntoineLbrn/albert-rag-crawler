@@ -1,0 +1,104 @@
+{
+  "files": {
+    ".trash/Bienvenue.md": {
+      "hash": "a469e11bde6e465fb40d83092992c52406634d97ebc7802116554a9949a2e818",
+      "documentId": 4981323,
+      "syncedAt": "2026-10-05T15:09:55.291Z"
+    },
+    "ANRDF/Présentation du projet.md": {
+      "hash": "0058a0fbadb0893497c2357c0ee793501d8e3a8eeb219cc859bffe8a7e2aeeae",
+      "documentId": 4981324,
+      "syncedAt": "2026-10-05T15:09:57.850Z"
+    },
+    "Présentations/2026-09-21 COPIL - Présentation.md": {
+      "hash": "3b5b1cced452bbad1097212a2a7f9e193b5efd6304d253bcb1846eef967a9af1",
+      "documentId": 4981325,
+      "syncedAt": "2026-10-05T15:09:58.182Z"
+    },
+    "Réunions/2026-09-08 Cécile.md": {
+      "hash": "f0ba49eabe9807e3b7d535c3749e92c6b3105b6a4e78b0a5d164f3403c9391a8",
+      "documentId": 4981326,
+      "syncedAt": "2026-10-05T15:09:58.452Z"
+    },
+    "Réunions/2026-09-09 Aurélien.md": {
+      "hash": "1133e9f573f8b5b24a307f50f68e2d6992d964c568dbfab4f34e824d1850f3b1",
+      "documentId": 4981327,
+      "syncedAt": "2026-10-05T15:09:58.736Z"
+    },
+    "Réunions/2026-09-10 Julie&Cécile.md": {
+      "hash": "9033f22c4cc4ebdd5adde062fe46fe2d7f68526c0b3f32b540037fe62c916b6c",
+      "documentId": 4981328,
+      "syncedAt": "2026-10-05T15:09:59.067Z"
+    },
+    "Réunions/2026-09-11 Aurélien.md": {
+      "hash": "aefc18272d4c54aa14be2c54caabdaebeddf80505fcd70f66a40d361d41e4744",
+      "documentId": 4981329,
+      "syncedAt": "2026-10-05T15:09:59.414Z"
+    },
+    "Réunions/2026-09-15 LPI.md": {
+      "hash": "258edc330c0262f32401f2c38ff1774a968b7aac27ff1effc7086e65f765b8f7",
+      "documentId": 4981330,
+      "syncedAt": "2026-10-05T15:09:59.699Z"
+    },
+    "Réunions/2026-09-15 Scientométrie.md": {
+      "hash": "8d36e6d92e564f3f38d8e063f9f7fdd93057f27f0d1087820901faaed5ac2f61",
+      "documentId": 4981331,
+      "syncedAt": "2026-10-05T15:10:00.065Z"
+    },
+    "Réunions/2026-09-16 Cécile.md": {
+      "hash": "682312b6e1464170de9c22ab0f89b59a873db77785299f4d4c1b83fae2fd7aef",
+      "documentId": 4981332,
+      "syncedAt": "2026-10-05T15:10:00.361Z"
+    },
+    "Réunions/2026-09-16 Rachid.md": {
+      "hash": "fa2e215e47951c523f9cd5ab229810a7ffa91c99c2ea97839713aa9c7bcf9d75",
+      "documentId": 4981333,
+      "syncedAt": "2026-10-05T15:10:00.726Z"
+    },
+    "Réunions/2026-09-18 Julie.md": {
+      "hash": "70270673cd4081c2fc08ebdf160c9d135699fa3bf9668b64e57b279f384fd26b",
+      "documentId": 4981334,
+      "syncedAt": "2026-10-05T15:10:01.114Z"
+    },
+    "Réunions/2026-09-21 Comité de direction.md": {
+      "hash": "d5f94ff659a574a8cad9862e339ac710c343c21c97beb38ca8b7292c886646c2",
+      "documentId": 4981335,
+      "syncedAt": "2026-10-05T15:10:01.406Z"
+    },
+    "Réunions/2026-09-21 Hermes.md": {
+      "hash": "f478174b5c01dbb79fba86bed1f483b33f6b1e5e2040c7eab898bd7c0dd78eff",
+      "documentId": 4981336,
+      "syncedAt": "2026-10-05T15:10:01.714Z"
+    },
+    "Réunions/2026-09-25 CdP AMI-SHS.md": {
+      "hash": "3b51701ffea6512d6abce2c643221c416b6cee1ef1ade7a476016e4ab3a76658",
+      "documentId": 4981337,
+      "syncedAt": "2026-10-05T15:10:02.098Z"
+    },
+    "Réunions/2026-09-30 réunion AMI-SHS.md": {
+      "hash": "ce6ced7aa1280fd0684e698a181b84544371f46f978bfa339e3a8c6e4163396b",
+      "documentId": 4981338,
+      "syncedAt": "2026-10-05T15:10:02.501Z"
+    },
+    "Réunions/2026-10-01.md": {
+      "hash": "da66c8192fe039ea90102a9e07f04cb81323f4b6a4ea7269cddfa45c3ddca1ef",
+      "documentId": 4981339,
+      "syncedAt": "2026-10-05T15:10:02.841Z"
+    },
+    "Sphinx/COPILS/2026-09-07 copil.md": {
+      "hash": "73be59882cc921d57d896f202486fd3543c5b8bab470c6652808e21be5b88d04",
+      "documentId": 4981340,
+      "syncedAt": "2026-10-05T15:10:03.262Z"
+    },
+    "Sphinx/COPILS/2026-10-05 copil.md": {
+      "hash": "7cd918a43ecf26097da148ea1adc6bf5262c21bdd5dec048f80c1fd95b1f820f",
+      "documentId": 4981341,
+      "syncedAt": "2026-10-05T15:10:03.636Z"
+    },
+    "_/TODO.md": {
+      "hash": "c047850281f0c877237bb98b71ca06b9e8f53d282bebb5e808c39ebd2281fc4e",
+      "documentId": 4981342,
+      "syncedAt": "2026-10-05T15:10:04.649Z"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+deno run --allow-net --allow-env --env-file=.env create-collection.ts
